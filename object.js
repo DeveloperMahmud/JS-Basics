@@ -4,5 +4,6 @@ var profile3 = { Name:"Kelly", Age:29, Followers:2330, RelationshipStatus: "Secr
 
 console.log(profile1);
 console.log(profile1.Name);
-console.log(profile2);
+console.log(profile2.Followers);
+console.log(profile2.Age);
 console.log(profile3);
